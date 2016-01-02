@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+#container{
+	background-color: black;
+}
+
+img#main_logo{
+	width: 500px;
+	clear: both;
+}
+
+img#main_image{
+	width: 500px;
+}
